@@ -33,11 +33,19 @@ Esse é o dia mais trabalhoso! Inicialmente, você irá alterar o código para d
 :heavy_check_mark: DIA 5
 Nesse dia, o seu objetivo será criar e publicar no repositório um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do seu código.
 
-DIA 6
+:heavy_check_mark: DIA 6
 Hoje você vai lidar com conflitos. Inicialmente, forçaremos commits a partir de duas fontes diferentes. O seu desafio será resolver esse conflito e fazer um commit do resultado do seu merge.
 
-DIA 7
+:heavy_check_mark: DIA 7
 No sétimo e último dia do desafio, você irá colocar o seu projeto em produção usando o GitHub Pages do próprio GitHub. Você irá fechar com chave de ouro!
 
 
 ## Considerações finais
+
+Git e GitHub são ferramentas essenciais para quem está no mundo de desenvolvimento de softwares.
+Com esse projeto eu pude passar por diversos desafios que no meu dia a dia poderei aplicar. 
+
+Entendi e aprendi melhor a utilização do VSCode com o git, de comandos como o "git rebase" e até memso a publicação de do site no github pages.
+
+Fiquei muito satisfeito com esse desafio e aprendizados. :blush:
+
